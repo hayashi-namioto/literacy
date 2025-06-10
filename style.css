@@ -1,0 +1,15 @@
+ h1 {
+      color: #000000;
+      }
+
+  body {
+      color: #ffffff;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+   
+    a {
+      color: #ffffff;
+      text-decoration: underline;
+    }
